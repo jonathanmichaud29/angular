@@ -6,8 +6,8 @@ Angular learning environment
 Objectifs prioritaires
 - [x] Installation direct sur la machine
 - [x] Changer le point d'entrée
-- [] Modification styles
-- [] Propriétés et écouteurs d'événements
+- [x] Propriétés et écouteurs d'événements
+- [] Partage de données entre les composants
 - [] Formulaire
 - [] Gestion des erreurs
 
